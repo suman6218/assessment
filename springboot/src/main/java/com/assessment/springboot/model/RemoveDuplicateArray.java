@@ -1,4 +1,4 @@
-package com.infy.assign.springboot.model;
+package com.assessment.springboot.model;
 
 import java.util.List;
 
@@ -26,7 +26,5 @@ public class RemoveDuplicateArray {
 	public void setList3(List<Integer> list3) {
 		this.list3 = list3;
 	}
-	
-	
 
 }
